@@ -1,0 +1,26 @@
+canvas {
+  display: block;
+}
+
+.block-audio {
+  display: none;
+}
+body{padding: 0px;margin: 0px}
+.daohang{ 
+  background-color: black;
+}
+.daohang a img{
+  width: 50px;
+  height: 50px;
+}
+.daohang a{
+  position: relative;
+}
+.daohang a i{
+  position: absolute;
+  top: -15px;
+  left: 12px;
+  font-size: 10px;
+  font-style: normal;
+  color: cadetblue;
+}
